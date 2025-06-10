@@ -44,3 +44,4 @@ admin.site.register(Favorite)
 admin.site.register(FavoriteMovie)
 admin.site.register(History)
 
+      
